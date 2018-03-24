@@ -2,10 +2,6 @@
 
 #Project Euler Problem 5
 
-
-
-
-
 def is_divisible(n):
 
     for i in range(1,21):
